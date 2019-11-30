@@ -1,0 +1,18 @@
+.main-footer >* {
+    margin: 20px;
+}
+
+.main-footer img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid white;
+}
+.main-footer p {
+    min-width:  150px;
+    max-width: 300px;
+}
+.contacts >* {
+    margin: 5px;
+}

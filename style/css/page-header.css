@@ -1,0 +1,15 @@
+.logo {
+    font-family: DancingScript;
+}
+
+.main-nav li {
+    font-family: Caveat;
+    width: 75px;
+}
+/* 
+.main-nav a:hover {
+    color: rgb(39, 107, 42);
+} */
+.main-nav a {
+    font-size: 1.2rem;
+}

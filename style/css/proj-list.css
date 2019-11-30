@@ -1,0 +1,55 @@
+.card .title {
+    font-size: 1.75rem;
+}
+
+.projects-container {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    border-radius: 7.5px;
+    width: 300px;
+    /* height: 500px; */
+    margin: 15px;
+    overflow: hidden;
+    transition: 0.3s;
+    position: relative;
+}
+.card:hover {
+    /* cursor: pointer; */
+    transform: scale(1.0075);
+}
+
+.card header {
+    background-color: rgb(250, 173, 128);
+    padding: 10px;
+    /* height: 10%; */
+    height: 50px;
+}
+.card main {
+    /* height: 90%; */
+}
+.card img {
+    width: 100%;
+    /* height: 50%; */
+    height: 250px;
+    /* position: absolute;
+    bottom: 0; */
+    object-fit: cover;
+}
+.card .proj-info {
+    /* height: 50%; */
+    height: 150px;
+    /* min-height: 50px; */
+    padding: 10px;
+}
+
+.card a {
+    color: rgb(20, 22, 131);
+}
+.card a:hover {
+    color: rgb(129, 129, 226);
+}

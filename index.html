@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style/css/main.css">
+    <title>Projects gallery</title>
+</head>
+<body onload="renderProjs()">
+
+    <header class="main-header flex align-center space-between wrap">
+        <!-- <h1 class="logo">My Gallery</h1> -->
+        <a href="#mainContent"><h1 class="logo">Aviv</h1></a>
+        <ul class="main-nav clean-list flex align-center space-between wrap">
+            <li class="flex align-center justify-center"><a href="#projects">Projects</a></li>
+            <li class="flex align-center justify-center"><a href="#about">About</a></li>
+        </ul>
+    </header>
+    
+    <main id="mainContent" class="main-content">
+        <section class="page-preview flex column align-center justify-center">
+            <h2 class="text-center">Hello, my name is <span>Aviv Issachar</span>, welcome to my projects gallery</h2>
+            <ul class="nav clean-list flex align-center space-between wrap">
+                <li class="flex align-center justify-center"><a href="#projects">Projects</a></li>
+                <li class="flex align-center justify-center"><a href="#about">About</a></li>
+            </ul>
+        </section>
+        <section id="projects" class="projects-container flex column align-center justify-center width-all">
+            <h2 class="title text-center">Projects:</h2>
+            <ul class="project-list clean-list flex space-around wrap width-all"></ul>
+        </section>
+    </main>
+
+    <footer id="about" class="main-footer flex align-center space-around wrap width-all">
+        <img class="selfImg" src="img/me.jpg" alt="self img"/>
+        <p>My name is Aviv Issachar, I am a full-stack web developer in the beggining of my way. Here you can find some of the main projects I have been working on.</p>
+        <div class="contacts flex column justify-center">
+            <h4>Contact me:</h4>
+            <div>
+                Email: <a href="mailto:avivissachar73@gmail.com" target="_blank">avivissachar73@gmail.com</a>
+            </div>
+            <div>
+                Facebook: <a href="https://www.facebook.com/aviv.issachar?ref=bookmarks" target="_blank">Aviv Issachar</a>
+            </div>
+            </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

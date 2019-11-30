@@ -1,0 +1,26 @@
+.main-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: white;
+    background-color: rgb(36, 0, 0);
+    min-height: 10vh;
+    padding: 15px;
+    z-index: 5;
+}
+
+.main-content {
+    padding-top: 10vh;;
+    min-height: 90vh;
+}
+
+.main-footer {
+    padding: 10px;
+    color: white;
+    background-color: rgb(78, 1, 1);
+}
+
+.title {
+    font-family: Caveat;
+    margin: 20px;
+}
