@@ -15,7 +15,7 @@
 }
 
 .contacts >* {
-    margin: 5px;
+    margin: 3px;
 }
 
 .contacts a:not(:hover) {
