@@ -13,3 +13,7 @@
 .main-nav a {
     font-size: 1.2rem;
 }
+
+.main-nav a:not(:hover) {
+    color: white;
+}

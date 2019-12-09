@@ -20,6 +20,7 @@ button:hover {
 
 a {
     color: white;
+    /* color: rgb(167, 167, 241); */
     text-decoration: none;
 }
 a:hover {
