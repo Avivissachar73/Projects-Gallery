@@ -23,6 +23,8 @@ button:hover {
 }
 
 a {
+    outline: none;
+    background: none;
     color: white;
     /* color: rgb(167, 167, 241); */
     text-decoration: none;
