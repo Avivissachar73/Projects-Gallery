@@ -2,7 +2,7 @@
 
 
 var gProjs = [
-    createProj('Gamba', 'The final project of the Coding academy bootcamp, I created it with Paz Gerti and Itay Raz using VueJs.', 'December 2019','img/projects/Gamba_events.png', 'https://gamba-project.herokuapp.com/', 'https://github.com/ItayRaz/Gamba-Front', 'https://github.com/ItayRaz/Gamba-Back'),
+    createProj('Gamba', 'The final project of the Coding academy bootcamp, I created it with Paz Gerti and Itay Raz using VueJs and nodeJs.', 'December 2019','img/projects/Gamba_events.png', 'https://gamba-project.herokuapp.com/', 'https://github.com/ItayRaz/Gamba-Front', 'https://github.com/ItayRaz/Gamba-Back'),
     createProj('Space Invaders', 'A game I work on during my free time (still on development).', 'November 2019','img/projects/Space_Invaders.png', 'https://avivissachar73.github.io/Space-Invaders/', 'https://github.com/Avivissachar73/Space-Invaders'),
     createProj('AppSus', 'An aplication I created with Adi Pinhas using VueJs.', 'November 2019','img/projects/AppSus.png', 'https://avivissachar73.github.io/AppSus/', 'https://github.com/Avivissachar73/AppSus'),
     createProj('Meme Generator', '', 'October 2019', 'img/projects/Meme_Generator_PC.png', 'https://avivissachar73.github.io/meme-generator/', 'https://github.com/Avivissachar73/meme-generator'),
