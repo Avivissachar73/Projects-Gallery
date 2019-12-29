@@ -1,4 +1,4 @@
-.page-preview {
+.page-hero {
     height: 90vh;
     width: 100%;
     padding: 10px;
@@ -7,25 +7,26 @@
     font-family: Caveat;
 }
 
-.page-preview h2 {
+.page-hero h2 {
     font-weight: 200;
-    color: rgb(68, 1, 1);
+    /* color: rgb(68, 1, 1); */
+    color: black;
     font-size: 2.5rem;
 }
-.page-preview h2 span {
+.page-hero h2 span {
     font-weight: 600;
 }
 
-.page-preview >:first-child {
+.page-hero >:first-child {
     margin-bottom: 100px;
 }
 
-.page-preview .nav li a {
+.page-hero .nav li a {
     /* color: white; */
     /* color: rgb(68, 1, 1); */
     font-size: 2rem;
     margin: 15px;
 }
-/* .page-preview .nav li a:hover {
+/* .page-hero .nav li a:hover {
     color: rgb(180, 240, 193);
 } */

@@ -1,3 +1,11 @@
+.main-header {
+    color: white;
+    background-color: rgb(36, 0, 0);
+    /* background-color: #500c0c; */
+    padding: 15px;
+    z-index: 5;
+}
+
 .logo {
     font-family: DancingScript;
 }
