@@ -2,6 +2,7 @@
 
 
 var gProjs = [
+    createProj('Snake', '', '23.7.2020','img/projects/Snake.png', 'https://avivissachar73.github.io/Snake/', 'https://github.com/Avivissachar73/Snake'),
     createProj('CovidPacman', '', '20-21.3.2020','img/projects/Pacman.png', 'https://avivissachar73.github.io/CovidPacman/', 'https://github.com/Avivissachar73/CovidPacman'),
     createProj('Damka', 'For 2 players or vs com', 'February 2020','img/projects/Damka.png', 'https://avivissachar73.github.io/Damka/', 'https://github.com/Avivissachar73/Damka'),
     createProj('Gamba', 'The final project of the Coding academy bootcamp, I created it with Paz Gerti and Itay Raz using VueJs and nodeJs.', 'December 2019','img/projects/Gamba_events.png', 'https://gamba-project.herokuapp.com/', 'https://github.com/ItayRaz/Gamba-Front', 'https://github.com/ItayRaz/Gamba-Back'),
