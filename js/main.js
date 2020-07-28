@@ -2,6 +2,7 @@
 
 
 var gProjs = [
+    createProj('Aviv.js', 'a note app all written in a framework I created', 'Jan20 - on going','img/projects/AvivJsNotes.png', 'https://avivissachar73.github.io/AvivJs-Notes/', 'https://github.com/Avivissachar73/AvivJs-Notes'),
     createProj('Snake', '', '23.7.2020','img/projects/Snake.png', 'https://avivissachar73.github.io/Snake/', 'https://github.com/Avivissachar73/Snake'),
     createProj('CovidPacman', '', '20-21.3.2020','img/projects/Pacman.png', 'https://avivissachar73.github.io/CovidPacman/', 'https://github.com/Avivissachar73/CovidPacman'),
     createProj('Damka', 'For 2 players or vs com', 'February 2020','img/projects/Damka.png', 'https://avivissachar73.github.io/Damka/', 'https://github.com/Avivissachar73/Damka'),
